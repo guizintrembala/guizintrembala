@@ -11,3 +11,29 @@
 📫 Contato: (adicione aqui seu e-mail ou redes sociais)
 😄 Pronomes: ele/dele
 ⚡ Curiosidade: Faço parte da Jornada do Futuro e estou sempre buscando novos desafios para evoluir.
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="galeria"></div>
+
+<script>
+var imagens = [
+  "https://via.placeholder.com/150",
+  "https://via.placeholder.com/150/0000FF",
+  "https://via.placeholder.com/150/00FF00"
+];
+
+var galeria = document.getElementById("galeria");
+
+imagens.forEach(function(src) {
+  var img = document.createElement("img");
+  img.src = src;
+  img.style.margin = "10px";
+  galeria.appendChild(img);
+});
+</script>
+
+</body>
+</html>
