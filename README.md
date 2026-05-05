@@ -1,15 +1,13 @@
-## Olá 👋
+                                                👋 Guilherme Moreira Edwards
 
-* 🔭 Atualmente estou trabalhando em melhorar minhas habilidades em **Cibersegurança** e **Desenvolvimento Web**, criando projetos e estudando de forma consistente.
-* 🌱 Atualmente estou aprendendo mais sobre **hacking ético**, **segurança de sistemas** e **desenvolvimento web full-stack**.
-* 👯 Estou procurando colaborar em projetos relacionados à **tecnologia**, especialmente em **desenvolvimento web** e **segurança**.
-* 🤔 Estou procurando ajuda para ganhar mais experiência no mundo real e melhorar minhas habilidades práticas na área de tecnologia.
-* 💬 Pode me perguntar sobre **Cibersegurança**, **Desenvolvimento Web** ou minha jornada na área de tecnologia.
-* 📫 Como entrar em contato comigo: (você pode adicionar seu e-mail ou redes sociais aqui)
-* 😄 Pronomes: ele/dele
-* ⚡ Curiosidade: Faço parte da **Jornada do Futuro** e estou sempre em busca de novos desafios para evoluir.
+💻 Futuro profissional de tecnologia | Cibersegurança & Desenvolvimento Web
+🚀 Em constante evolução, aprendendo e construindo meu caminho
 
----
-
-🚀 Sempre aprendendo, sempre evoluindo.
-
+🔭 Atualmente estou focado em evoluir minhas habilidades em Cibersegurança e Desenvolvimento Web, criando projetos e mantendo constância nos estudos.
+🌱 Estou aprofundando meus conhecimentos em hacking ético, segurança de sistemas e desenvolvimento web full-stack.
+👯 Busco colaborar em projetos de tecnologia, principalmente nas áreas de web e segurança.
+🤔 Quero ganhar mais experiência prática e vivência no mundo real dentro da área tech.
+💬 Pode trocar ideia comigo sobre Cibersegurança, Desenvolvimento Web ou minha jornada na tecnologia.
+📫 Contato: (adicione aqui seu e-mail ou redes sociais)
+😄 Pronomes: ele/dele
+⚡ Curiosidade: Faço parte da Jornada do Futuro e estou sempre buscando novos desafios para evoluir.
