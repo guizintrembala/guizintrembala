@@ -1,4 +1,4 @@
-                                                👋 Guilherme Moreira Edwards
+                                                   <h1 align="left">Hey 👋 Guilherme Moreira Edwards</h1>
 
 💻 Futuro profissional de tecnologia | Cibersegurança & Desenvolvimento Web
 🚀 Em constante evolução, aprendendo e construindo meu caminho
@@ -11,8 +11,6 @@
 📫 Contato: (adicione aqui seu e-mail ou redes sociais)
 😄 Pronomes: ele/dele
 ⚡ Curiosidade: Faço parte da Jornada do Futuro e estou sempre buscando novos desafios para evoluir.
-
-<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
