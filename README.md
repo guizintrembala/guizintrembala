@@ -1,4 +1,4 @@
-                                                   <h1 align="left">Hey 👋 Guilherme Moreira Edwards</h1>
+ Guilherme Moreira Edwards
 
 💻 Futuro profissional de tecnologia | Cibersegurança & Desenvolvimento Web
 🚀 Em constante evolução, aprendendo e construindo meu caminho
